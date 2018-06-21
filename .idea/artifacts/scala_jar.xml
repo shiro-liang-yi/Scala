@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="scala:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/scala_jar</output-path>
+    <root id="archive" name="scala_jar.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.6-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
